@@ -3,7 +3,7 @@
 
 ## Survey
 
-We will kicking off the event with a survey - https://forms.gle/8FZRdAYsReU9dz1N8
+We will be kicking off the event with a survey - https://forms.gle/8FZRdAYsReU9dz1N8
 
 ## Presentation
 
