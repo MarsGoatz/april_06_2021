@@ -25,7 +25,6 @@ we will cap the time limit to 15 minutes!
 - Discuss about the stateful widget
 - Discuss about async programming
 - Maybe isolates
-- if we have time we will
 
 ## Thank You
 
