@@ -24,7 +24,7 @@ we will cap the time limit to 15 minutes!
 - Discuss the stateless widget
 - Discuss about the stateful widget
 - Discuss about async programming
-- Talk about [pub manager](https://github.com/FlutterVancouver/april_06_2021)
+- Talk about [pub manager](https://pub.dev/)
 
 ## Thank You
 
